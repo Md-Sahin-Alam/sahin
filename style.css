@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+
+
+
+}
+.Container{
+
+background-color: rgb(152, 243, 243);
+max-width: 1200px;
+margin: 0 auto;
+padding: 20px;
+
+}
+
+.image{
+
+    height: 200px;
+    width: 185px;
+    border: 2px red solid;
+    border-radius: 120px;
+    float: left;
+}
+
+.bio{
+    color: rgb(223, 140, 17); 
+    float: left;
+    padding: 40px;
+    font-weight: bold;
+    
+
+}
+.Contact{
+
+    padding: 30px;
+    color: rgb(17, 82, 223); 
+    float: right;
+    font-weight: bold;
+    margin-right: 200px;
+    
+
+}
+
+.Contact h3 a{
+
+text-decoration: none;
+
+}
+.Contact h3 a:hover{
+
+    text-decoration: underline;
+    color:orange;
+    
+    }
+
+    .clear-div{
+
+        clear: both;
+    }
+
+    hr{
+        border: 2px black solid;
+        margin: 20px;
+    }
+
+    .personal-information{
+
+         color: black; 
+         padding: 30px;
+         float: right;
+         margin-right: 180px;
+
+     
+
+
+     }    
+
+    .footing{
+        padding: 0px;
+        margin: 0px;
+        background-color: rgb(48, 105, 81);
+        text-align: center;
+        
+        
+
+    }
+    .footing a{
+
+        color: rgb(39, 26, 26);
+        
+
+    }
+    .education-information{
+
+        
+        color: black; 
+        padding: 30px;
+        float: right;
+        margin-right: 35px;
+
+    }
+        .Educational-Qualification{
+
+ 
+            color: black; 
+            padding: 30px;
+            float: right;
+            margin-right: 340px;
+    
+
+        }
